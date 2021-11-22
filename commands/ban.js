@@ -31,7 +31,7 @@ module.exports = {
               
             } catch {
                 message.guild.members.ban(banMember)
-              
+               
             }
             if (reason) {
               
