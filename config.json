@@ -1,0 +1,13 @@
+{
+  "token":"YOUR BOTS TOKEN",
+  "AME_API":"IF YOU WANT IMAGE COMMNADS",
+  "prefix":"YOUR_BOTS_PREFIX_HERE",
+  "YOUTUBE_API_KEY": "IF YOU WANT YOUTUBE MUSIC",
+  "SOUNDCLOUD_CLIENT_ID": " ",
+  "mongoPass": "YOUR MONGO DB URL",
+  "MAX_PLAYLIST_SIZE": 15, // How many songs can be in the playlist at a time.
+  "PRUNING": false, // Keep this as false.
+  "STAY_TIME": 30, // How many seconds/minutes you want it to stay when the songs are done playing
+  "DEFAULT_VOLUME": 100, // Default volume for music.
+    "administrators":["YOUR USER ID"]
+}
