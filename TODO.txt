@@ -1,0 +1,9 @@
+### Add
+~ Warning System
+~ Logs System [Working on Updating this to DJS V13 then I will add it.]
+
+### Update
+~ None
+
+### Remove 
+~ None
